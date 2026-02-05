@@ -52,7 +52,7 @@ public class ThrowGranade : MonoBehaviour
 
         // Calculamos la dirección (el forward de la cámara principal)
         Vector3 direccion = Camera.main.transform.forward;
-        //direccion.y = direccion.y + 1f;
+        direccion.y = direccion.y + 0.5f;
 
         // Aplicamos la fuerza (Impulse es ideal para lanzamientos instantáneos)
         rb.AddForce(direccion * force, ForceMode.Impulse);

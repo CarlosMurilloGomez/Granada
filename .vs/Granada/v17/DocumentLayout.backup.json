@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{4A38C73D-B787-416C-1486-4DA5B37CFBA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\granada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4A38C73D-B787-416C-1486-4DA5B37CFBA9}|Assembly-CSharp.csproj|c:\\unitygithub\\granada\\assets\\scripts\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A38C73D-B787-416C-1486-4DA5B37CFBA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A38C73D-B787-416C-1486-4DA5B37CFBA9}|Assembly-CSharp.csproj|C:\\UnityGithub\\Granada\\assets\\scripts\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A38C73D-B787-416C-1486-4DA5B37CFBA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\UnityGithub\\Granada\\Assets\\Scripts\\SliderController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SliderController.cs",
+              "ToolTip": "C:\\UnityGithub\\Granada\\Assets\\Scripts\\SliderController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SliderController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:28:17.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CameraControl.cs",
               "DocumentMoniker": "C:\\UnityGithub\\Granada\\Assets\\Scripts\\CameraControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraControl.cs",
@@ -44,7 +61,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\ThrowGranade.cs",
               "ToolTip": "C:\\UnityGithub\\Granada\\Assets\\Scripts\\ThrowGranade.cs",
               "RelativeToolTip": "Assets\\Scripts\\ThrowGranade.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAASwDoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAASwDYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T17:40:40.548Z",
               "EditorCaption": ""
@@ -57,7 +74,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Granada.cs",
               "ToolTip": "C:\\UnityGithub\\Granada\\Assets\\Scripts\\Granada.cs",
               "RelativeToolTip": "Assets\\Scripts\\Granada.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T17:16:03.429Z",
               "EditorCaption": ""

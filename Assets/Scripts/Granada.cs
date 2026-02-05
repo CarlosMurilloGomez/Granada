@@ -1,10 +1,19 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Granada : MonoBehaviour
 {
     public GameObject explosion;
-    public float expForce, radius;
+    private float expForce, radius;
+    public Slider sliderFuerza;
+    public Slider sliderRadio;
 
+
+    private void Update()
+    {
+        expForce = sliderFuerza.value;
+        radius = sliderRadio.value;
+    }
     private void OnCollisionEnter(Collision collision)
     {
         GameObject _explosion = Instantiate(explosion, transform.position, transform.rotation);
